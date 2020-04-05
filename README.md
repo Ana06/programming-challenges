@@ -2,8 +2,8 @@
 
 My solutions for several programming and capture the flag (CTF) competitions. 🏆
 
+- [Google Code Jam](/google-code-jam)
 - [June Circuits '19 from Hacker Earth](/hacker-earth)
-
 
 ## License
 
