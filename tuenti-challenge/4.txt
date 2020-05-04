@@ -1,0 +1,4 @@
+# Solution for Challenge 4 - My Favorite Video Game
+
+curl -x steam-origin.contest.tuenti.net:9876 pre.steam-origin.contest.tuenti.net:9876/games/cat_fight/get_key
+{"game":"Cat Fight","key":"7544-5747-5357"}
