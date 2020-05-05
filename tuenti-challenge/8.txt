@@ -1,0 +1,8 @@
+# Solution for Challenge 8 - Headache
+
+- Dowload the image 05-headache.png.
+- Open it with vim
+- The last line is:
+++++++++++[>++++++>+++++++>++++++++>+++>+<<<<<-]>>>++++.<++.---.>>++.<<--.>-----.<+.+.>>.<<++++.>++++.<<--.>>>.<++++.<++++++.---.+++.---.+++.>>+..
+- This looks like Brainfuck language. Use the following url to decode it:
+https://www.dcode.fr/brainfuck-language
